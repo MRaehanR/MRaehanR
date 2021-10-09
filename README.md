@@ -42,5 +42,7 @@
 <br/>
 ---
 
-[![MRaehanR's github stats](https://github-readme-stats.vercel.app/api?username=MRaehanR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![MRaehanR's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MRaehanR&theme=radical&layout=compact&exclude_lang=java+r)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRaehanR&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MRaehanR&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
